@@ -6,8 +6,6 @@ This project analyzes customer shopping behavior to identify meaningful patterns
 
 The analysis combines **Python, SQL, and Power BI** to perform data analysis and create an interactive dashboard for better business insights and decision-making.
 
----
-
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
@@ -21,8 +19,6 @@ The main objectives of this project are to:
 * Analyze seasonal sales performance
 * Explore customer preferences for payment and shipping methods
 
----
-
 ## 🛠️ Tools & Technologies Used
 
 * 🐍 **Python**
@@ -31,11 +27,9 @@ The main objectives of this project are to:
 * 🗄️ **SQL**
 * 📈 **Power BI**
 
----
 
 ## 📂 Project Structure
 
-```text
 customer-shopping-behavior-analysis/
 │
 ├── customer shopping behavior.ipynb
@@ -48,9 +42,6 @@ customer-shopping-behavior-analysis/
 │   └── Interactive Power BI Dashboard
 │
 └── README.md
-```
-
----
 
 ## 🔍 SQL Analysis
 
@@ -87,8 +78,6 @@ The project includes several SQL queries to answer important business questions,
 * Seasonal sales performance
 * Customer spending behavior by payment method
 
----
-
 ## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize key customer and sales insights.
@@ -102,7 +91,6 @@ The dashboard helps users easily understand:
 * Subscription behavior
 * Seasonal purchasing patterns
 
----
 
 ## 💡 Key Business Questions Answered
 
@@ -119,7 +107,6 @@ Some of the key questions explored in this project include:
 9. Which payment methods are associated with higher customer spending?
 10. Which customers can be classified as New, Returning, or Loyal?
 
----
 
 ## 📈 Skills Demonstrated
 
@@ -137,58 +124,6 @@ This project demonstrates skills in:
 * Business Intelligence
 * Data Visualization
 * Power BI Dashboard Development
-
----
-
-## 🚀 How to Run the Project
-
-### Python Analysis
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-```
-
-2. Open the Jupyter Notebook:
-
-```text
-customer shopping behavior.ipynb
-```
-
-3. Install the required Python libraries if needed:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-4. Run the notebook cells to perform the analysis.
-
----
-
-### SQL Analysis
-
-1. Open the SQL file:
-
-```text
-customer_shopping_behavior.sql
-```
-
-2. Import the customer dataset into your SQL database.
-
-3. Run the queries to explore customer behavior and generate business insights.
-
----
-
-### Power BI Dashboard
-
-Open the following file using Power BI Desktop:
-
-```text
-customer_behavior_dashboard1.pbix
-```
-
----
 
 ## 👩‍💻 Author
 
