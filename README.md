@@ -30,7 +30,7 @@ The main objectives of this project are to:
 
 ## 📂 Project Structure
 
-customer-shopping-behavior-analysis/
+customer-shopping-behavior-analysis
 │
 ├── customer shopping behavior.ipynb
 │   └── Data cleaning, exploration and analysis using Python
@@ -40,8 +40,6 @@ customer-shopping-behavior-analysis/
 │
 ├── customer_behavior_dashboard1.pbix
 │   └── Interactive Power BI Dashboard
-│
-└── README.md
 
 ## 🔍 SQL Analysis
 
