@@ -128,5 +128,6 @@ This project demonstrates skills in:
 **Sanika Kale**
 
 Aspiring **Data Analyst | Business Analyst | Business Intelligence Professional**
+
+**FlowChart Diagram**
 [![Architecture diagram of sanikaa30/customer-shopping-behavior-analysis-](https://i.ibb.co/xSN4pQDk/diagram.png)](https://gitdiagram.com/sanikaa30/customer-shopping-behavior-analysis-?utm_source=readme&utm_medium=picture)
-[url=https://ibb.co/ccjmGd1B][img]https://i.ibb.co/xSN4pQDk/diagram.png[/img][/url]
