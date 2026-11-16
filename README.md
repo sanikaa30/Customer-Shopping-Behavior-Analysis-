@@ -130,7 +130,7 @@ This project demonstrates skills in:
 Aspiring **Data Analyst | Business Analyst | Business Intelligence Professional**
 
 ### Skills:
-
+[![Architecture diagram of sanikaa30/customer-shopping-behavior-analysis-](https://gitdiagram.com/sanikaa30/customer-shopping-behavior-analysis-/diagram.png)](https://gitdiagram.com/sanikaa30/customer-shopping-behavior-analysis-?utm_source=readme&utm_medium=picture)
 Python • SQL • Power BI • Tableau • Excel • Data Analysis • Business Intelligence
 
 ---
